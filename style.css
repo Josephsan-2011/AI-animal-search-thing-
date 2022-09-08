@@ -1,0 +1,49 @@
+body {
+    background-size: cover;
+    background-color: #25252a;
+}
+.heading {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 5px grey;
+    font-weight: bold;
+    
+}
+.thestartbtn {
+    font-family: 'Qwitcher Grypen', cursive;
+    font-size: 50px;
+    box-shadow: 5px 5px grey;
+}
+.thestartbtn:hover {
+    background-color: #555555;
+    color: white;
+    border: 0;
+}
+#status {
+    font-family: 'Qwitcher Grypen', cursive;
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 2px grey;
+}
+.footer {
+    position: fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background-color: grey;
+    color: blackf;
+    line-height:3;
+    font-size:20pxpx;
+
+}
+canvas {
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 175px ;
+    box-shadow: 8px 8px 6px rgb(0, 0, 0);
+}
+.line {
+    letter-spacing: 3px;
+}
